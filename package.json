@@ -1,5 +1,5 @@
 {
-  "name": "randombyte",
+  "name": "viem-randombyte",
   "module": "index.ts",
   "version": "0.0.2",
   "type": "module",
